@@ -30,6 +30,6 @@ export default {
 }
 td,
 th {
-    padding: 3px 6px !important;
+    padding: 1px 6px !important;
 }
 </style>

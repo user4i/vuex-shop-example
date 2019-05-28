@@ -9,12 +9,10 @@
 </template>
 
 <script>
-import ProductList from "../components/ProductList";
 import Cart from "../components/Cart";
 
 export default {
     components: {
-        ProductList,
         Cart
     }
 };

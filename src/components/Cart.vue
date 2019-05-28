@@ -32,7 +32,7 @@
                                     <v-text-field
                                         min="1"
                                         type="number"
-                                        class="number-field"
+                                        class="number-field pt-0"
                                         v-model="props.item.count"
                                     ></v-text-field>
                                 </td>
